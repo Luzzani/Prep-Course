@@ -1,0 +1,3 @@
+ARRAY 
+
+Un array es una variable, en la cual podemos guardar mas de un valor. Como en el ejemplo de variable use una caja para la variable y un papel para el valor a guardar, lo mismo se puede aplicar en este caso. Pero la caja crece segun la cantidad de papeles que metamos dentro. Podemos meter muchos papeles, de cualquier tipo. strings, numeros, otros arrays, objetos.. etc.
