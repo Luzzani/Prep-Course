@@ -1,0 +1,10 @@
+* `for`
+
+Un for se encarga de repetir una linea de codigo la cantidad de veces que nosotros querramos sin necesidad de escribir todas esas veces el mismo codigo.
+
+* `&&`, `||`, `!`
+
+
+el operar && significa 'Y', hagamos esto Y tambien aquello, ambas se tienen que cumplir para que esta expresion sea verdadera. 
+El operador || significa 'O' hagamos esto O hagamos aquello. Con que una de las dos se cumpla, la expresion es verdadera. 
+El operador ! significa 'negar', si yo digo, 2 + 2 = 4, esto es verdadero, pero si al resultado le pongo delante el operador ! pasa a ser esto falso.
