@@ -1,0 +1,20 @@
+VARIABLES
+
+Una variable la podemos visualizar como una caja, en la cual vamos a guardar un dato, que podemos visualizar como un papel. Esta caja es el espacio en la memoria de la computadora, y el dato es el papel que quieras guardar en el. En ese papel escribiras la informacion que quieres guardar, escribir un texto, o un numero, escribir una lista de nombres, etc.
+
+STRING
+
+Un string es una cadena de texto. Es como escribir en una hoja un texto, este puede contener numeros, letras, espacios y diferentes caracteres. En programacion las cadenas de texto, o STRING, van encerradas entre comillas simples 'Esto es una cadena de texto', dobles "Esto tambien es una cadena de texto" o con la comilla invertida `Esto tambien es una cadena de texto`. 
+
+FUNCIONES
+
+Una funcion sirve para realizar instrucciones, que usualmente se repiten muchas veces, de modo que se encarge de realziar esas intrucciones sin tener que volver a escribirlas. Las funciones pueden recibir argumentos, estos argumentos son variables, estas variables contienen informacion que necesitan las instrucciones para devolver un resultado difrente, segun el argumento que se le pase. Para devolver el resultado que se quiere lograr con la funcion, se usa la palabra reservada return, que devolver un valor de cualquier tipo, pero solo 1.
+
+IF 
+
+Un IF es un condicional, este se usa para ejecutar una instruccion dependiendo de la condicion, si la condicion se cumple y resulta ser verdadera, se ejecuta una instruccion y si resulta ser falsa se ejecuta otra distinta. Es lo mismo cuando decidimos algo entre amigos. Si la mayoria esta de acuerdo vamos al cine, si la mitad o menos no quiere ir al cine, vamos a otro lado.
+
+VALORES BOOLEANOS
+
+Los valores booleanos corresponden a un valor de verdad. Puede ser true= VERDADERO o puede ser FALSE= FALSO. 
+
